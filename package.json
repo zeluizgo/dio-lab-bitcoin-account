@@ -1,0 +1,25 @@
+{
+  "name": "1stnodejsworkspace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeluizgo/1stnodejsworkspace.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeluizgo/1stnodejsworkspace/issues"
+  },
+  "homepage": "https://github.com/zeluizgo/1stnodejsworkspace#readme",
+  "dependencies": {
+    "bip32": "^2.0.6",
+    "bip39": "^3.1.0",
+    "bitcoinjs-lib": "^6.1.7"
+  }
+}
